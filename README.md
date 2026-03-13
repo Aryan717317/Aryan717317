@@ -1,62 +1,93 @@
 <div align="center">
 
-# `> aryan.init()`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Aryan%20Bharat%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Explorer%20%7C%20Frontend%20Craftsman&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI%2FML+Explorer;Frontend+Craftsman;Building+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=const+aryan+%3D+new+Developer()%3B;%E2%9A%A1+Full-Stack+%26+3D+Web+Engineer;%F0%9F%A4%96+AI%2FML+Explorer+%26+Builder;%F0%9F%8E%A8+Frontend+Craftsman;%F0%9F%9A%80+Shipping+ideas+into+reality" alt="Typing SVG" />
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📍-Chandigarh%2C%20India-0d1117?style=for-the-badge&labelColor=0d1117&color=00d9ff" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💼-Open%20to%20Collaborate-0d1117?style=for-the-badge&labelColor=0d1117&color=10b981" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⚡-35%2B%20Public%20Repos-0d1117?style=for-the-badge&labelColor=0d1117&color=6366f1" />
+</td>
+</tr>
+</table>
 
 <br/>
 
 ```typescript
-const developer = {
-    name: "Aryan Bharat Kumar",
-    location: "Chandigarh, India",
-    role: "Software Engineer & AI/ML Explorer",
-    currentFocus: ["Full-Stack Development", "3D Web Experiences", "AI-Powered Apps"],
-    philosophy: "Ship fast. Learn faster. Iterate always."
+const aryan: Developer = {
+  name:        "Aryan Bharat Kumar",
+  location:    "Chandigarh, India 🇮🇳",
+  role:        "Software Engineer & AI/ML Explorer",
+  focus:       ["Full-Stack Development", "3D Web Experiences", "AI-Powered Apps"],
+  philosophy:  "Ship fast. Learn faster. Iterate always. 🚀",
+  status:      "✅ Available for collaboration",
 };
 ```
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aryan717317-181717?style=for-the-badge&logo=github)](https://github.com/Aryan717317)
-[![Repos](https://img.shields.io/badge/Public_Repos-35+-6366f1?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Aryan717317?tab=repositories)
-[![Open to Work](https://img.shields.io/badge/Open_to-Collaboration-10b981?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/Aryan717317)
+<p>
+  <a href="https://github.com/Aryan717317">
+    <img src="https://img.shields.io/badge/GitHub-Aryan717317-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aryan717317?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-35+-6366f1?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aryan717317">
+    <img src="https://img.shields.io/badge/Open%20to-Collaboration-10b981?style=for-the-badge&logo=handshake&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Aryan717317&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
+<div align="center">
 <h2>⚡ Tech Arsenal</h2>
+</div>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**Languages & Core**
-```
-JavaScript   ████████████████░░   85%
-TypeScript   ███████████████░░░   80%
-HTML/CSS     ██████████████████   95%
-Python       ██████████░░░░░░░░   55%
-```
+| 🌐 Languages | 🧰 Frameworks | 🛠️ Tools |
+|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
-</td>
-<td valign="top" width="50%">
+</div>
 
-**Frameworks & Tools**
-```
-React        █████████████████░   90%
-Three.js     ██████████████░░░░   75%
-Tailwind     ██████████████████   95%
-Motion       ███████████████░░░   80%
-```
+<br/>
 
-</td>
-</tr>
-</table>
+<div align="center">
+
+**Skill Proficiency**
+
+| Skill | Level |
+|:------|:------|
+| HTML / CSS | `██████████████████░░` 95% |
+| React / Tailwind | `█████████████████░░░` 90% |
+| JavaScript | `████████████████░░░░` 85% |
+| TypeScript | `███████████████░░░░░` 80% |
+| Framer Motion | `███████████████░░░░░` 80% |
+| Three.js / WebGL | `██████████████░░░░░░` 75% |
+| Python / AI-ML | `██████████░░░░░░░░░░` 55% |
+
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,tailwind,html,css,git,github,vscode,figma&theme=dark&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,tailwind,html,css,python,git,github,vscode,figma,nodejs&theme=dark&perline=7" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -91,6 +122,24 @@ Motion       ███████████████░░░   80%
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan717317&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph" width="95%"/>
+</div>
+
+---
+
+<h2>🐍 Contribution Snake</h2>
+
+<div align="center">
+
+> **Watch the snake feast on my GitHub contributions!** 🎮
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aryan717317/Aryan717317/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aryan717317/Aryan717317/blob/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://github.com/Aryan717317/Aryan717317/blob/output/github-snake-dark.svg" width="95%" />
+</picture>
+
+<sub>🔄 Auto-updated every 12 hours via GitHub Actions</sub>
+
 </div>
 
 ---
