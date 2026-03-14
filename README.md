@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Aryan%20Bharat%20Kumar&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20Explorer%20%7C%20Full-Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Aryan%20Bharat%20Kumar&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI/ML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%9A%80+Ship+fast.+Learn+faster.+Iterate+always.;%F0%9F%92%A1+Building+the+future%2C+one+commit+at+a+time.;%F0%9F%8E%AF+CSE+Enthusiast+from+Chandigarh%2C+India" alt="Typing SVG" /></a>
