@@ -161,7 +161,7 @@ const aryan: Developer = {
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="25"> GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aryan717317&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryan717317&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Aryan717317&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
@@ -171,7 +171,7 @@ const aryan: Developer = {
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan717317&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a1b27&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan717317&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a1b27&area=true&hide_border=true&count_private=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
